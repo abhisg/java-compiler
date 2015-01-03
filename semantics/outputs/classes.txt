@@ -1,0 +1,14 @@
+installing x in the symbol table 0x8b1f188
+installing y in the symbol table 0x8b1f188
+installing x in the symbol table 0x8b1f268
+installing y in the symbol table 0x8b1f268
+constructor installed
+function printX installed
+installing color in the symbol table 0x8b1f378
+function setColor installed
+function getColor installed
+installing finish in the symbol table 0x8b47468
+function setFinish installed
+function getFinish installed
+function main installed
+Compilation complete

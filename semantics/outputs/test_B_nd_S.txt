@@ -1,0 +1,19 @@
+function howMany installed
+function main installed
+function howMany installed
+function main installed
+installing edges in the symbol table 0x9272a00
+installing edges in the symbol table 0x9272b10
+constructor installed
+installing i in the symbol table 0x9272c28
+installing j in the symbol table 0x9272c28
+function loseEdges installed
+installing n in the symbol table 0x9272c28
+installing newedges in the symbol table 0x9272c28
+installing z in the symbol table 0x92b7600
+installing m in the symbol table 0x92b7600
+installing ne in the symbol table 0x92b7600
+constructor installed
+installing edges in the symbol table 0x92e6f70
+constructor installed
+Compilation complete

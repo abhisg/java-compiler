@@ -1,0 +1,189 @@
+<<<<<<<Literal>>>>>>,line 1
+<<<<<<Field Declaration>>>>>>>>>>>,line 1
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 1
+<<<<<<<Literal>>>>>>,line 2
+<<<<<<Field Declaration>>>>>>>>>>>,line 2
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 5
+<<<<<<Method Declaration>>>>>>>>>>>,line 6
+<<<<class instance creation,line 8>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 9
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 13
+<<<<<<Method Declaration>>>>>>>>>>>,line 13
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 16
+<<<<<<Method Declaration>>>>>>>>>>>,line 16
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 20>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 21
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 25
+<<<<<<Method Declaration>>>>>>>>>>>,line 25
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 30>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 31
+<<<<<<Method Declaration>>>>>>>>>>>,line 34
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 38
+<<<<<<<Literal>>>>>>,line 40
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 40
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 40
+<<<<<<<Literal>>>>>>,line 40
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 40
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 40
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 40
+<<<<<<<Literal>>>>>>,line 40
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 40
+<<<<<<Method Declaration>>>>>>>>>>>,line 41
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 46>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 48
+<<<<<<<Literal>>>>>>,line 50
+<<<<<<Method Declaration>>>>>>>>>>>,line 51
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 54
+<<<<<<Field Declaration>>>>>>>>>>>,line 54
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 55
+<<<<<<Field Declaration>>>>>>>>>>>,line 55
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 58>>>>
+<<<<Field Access>>>>,line 58
+<<<<<<Method Declaration>>>>>>>>>>>,line 59
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 62
+<<<<<<Field Declaration>>>>>>>>>>>,line 62
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 66>>>>
+<<<<Field Access>>>>,line 66
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 67
+<<<<<<Method Declaration>>>>>>>>>>>,line 68
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 71
+<<<<<<Field Declaration>>>>>>>>>>>,line 71
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 72
+<<<<<<Field Declaration>>>>>>>>>>>,line 72
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 75>>>>
+<<<<Field Access>>>>,line 75
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 76
+<<<<<<Method Declaration>>>>>>>>>>>,line 77
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 80
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 83
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 83
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 84
+<<<<<<Method Declaration>>>>>>>>>>>,line 85
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 88
+<<<<<<Field Declaration>>>>>>>>>>>,line 88
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 91
+<<<<<<<Literal>>>>>>,line 92
+<<<<<SINGLE IF>>>>>>>>,line 93
+<<<<<<Method Declaration>>>>>>>>>>>,line 93
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 96
+<<<<<<<<<<Interface Field Declaration>>>>>>>,line 96
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 99
+<<<<<<<Literal>>>>>>,line 100
+<<<<<SINGLE IF>>>>>>>>,line 101
+<<<<<<Method Declaration>>>>>>>>>>>,line 101
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 104
+<<<<<<Method Declaration>>>>>>>>>>>,line 104
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 107>>>>
+<<<<<<<Literal>>>>>>,line 108
+<<<<<<Method Declaration>>>>>>>>>>>,line 110
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 113
+<<<<<<Method Declaration>>>>>>>>>>>,line 113
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 116>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 118
+<<<<<<Method Declaration>>>>>>>>>>>,line 119
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 124
+<<<<<<Method Declaration>>>>>>>>>>>,line 125
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 129
+<<<<<<Method Declaration>>>>>>>>>>>,line 130
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 133
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 136>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 138
+<<<<<<<Literal>>>>>>,line 139
+<<<<<<Method Declaration>>>>>>>>>>>,line 139
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<Only class/interface>>>>>>>>>>>>
+Compiled successfully

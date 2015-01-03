@@ -1,0 +1,34 @@
+<<<<<<<Literal>>>>>>,line 2
+<<<<<<Field Declaration>>>>>>>>>>>,line 2
+<<<<<<<Literal>>>>>>,line 5
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 5
+<<<<<<<Literal>>>>>>,line 6
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 6
+<<<<<<Method Declaration>>>>>>>>>>>,line 7
+<<<<<<<Literal>>>>>>,line 9
+<<<<<<<Literal>>>>>>,line 10
+<<<<<<<Literal>>>>>>,line 10
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 10
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 11
+<<<<<<<Literal>>>>>>,line 12
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 12
+<<<<<<<Literal>>>>>>,line 13
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 13
+<<<<<<While Statement>>>>>>>>>,line 14
+<<<<<<<Literal>>>>>>,line 15
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 16
+<<<<<<<Literal>>>>>>,line 16
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 16
+<<<<<<Method Declaration>>>>>>>>>>>,line 17
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 18
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 23
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 23
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 23
+<<<<<<Method Declaration>>>>>>>>>>>,line 24
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<Only class/interface>>>>>>>>>>>>
+Compiled successfully

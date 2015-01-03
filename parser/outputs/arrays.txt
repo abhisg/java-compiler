@@ -1,0 +1,62 @@
+<<<<<<Field Declaration>>>>>>>>>>>,line 1
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 1
+<<<<<<Field Declaration>>>>>>>>>>>,line 2
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 5
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 6
+<<<<<<<Literal>>>>>>,line 7
+<<<<Array Access>>>>,line 7
+<<<<<<<Literal>>>>>>,line 7
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 7
+<<<<<<<Literal>>>>>>,line 9
+<<<<class instance creation,line 9>>>>
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 9
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 11
+<<<<<<Method Declaration>>>>>>>>>>>,line 13
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 17
+<<<<<<<Literal>>>>>>,line 17
+<<<<<<<Literal>>>>>>,line 17
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 18
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 19
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 20
+<<<<<<For Statement>>>>>>>>>,line 21
+<<<<<<For Statement>>>>>>>>>,line 22
+<<<<<<Method Declaration>>>>>>>>>>>,line 23
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 26
+<<<<<<Field Declaration>>>>>>>>>>>,line 26
+<<<<Method Invocation>>>>,line 29
+<<<<Method Invocation>>>>,line 31
+<<<<class instance creation,line 31>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 33
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 37
+<<<<<<<Literal>>>>>>,line 37
+<<<<Method Invocation>>>>,line 38
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 39
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 39
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 39
+<<<<block>>>>>>,line 39
+<<<<<<<Literal>>>>>>,line 39
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 39
+<<<<<<<Literal>>>>>>,line 40
+<<<<Array Access>>>>,line 40
+<<<<<<<Literal>>>>>>,line 41
+<<<<Array Access>>>>,line 41
+<<<<<<Method Declaration>>>>>>>>>>>,line 42
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<Only class/interface>>>>>>>>>>>>
+Compiled successfully

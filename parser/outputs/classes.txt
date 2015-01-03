@@ -1,0 +1,314 @@
+<<<<<<<Literal>>>>>>,line 2
+<<<<<<<Literal>>>>>>,line 2
+<<<<<<Field Declaration>>>>>>>>>>>,line 2
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 4
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 4
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 5
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 5
+<<<<<<Method Declaration>>>>>>>>>>>,line 7
+<<<<<<Method Declaration>>>>>>>>>>>,line 8
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 9
+<<<<<<Field Declaration>>>>>>>>>>>,line 11
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 14
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 17
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 20
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 23
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 27
+<<<<Method Invocation>>>>,line 28
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 28
+<<<<<<Method Declaration>>>>>>>>>>>,line 28
+<<<<Method Invocation>>>>,line 29
+<<<<<<Method Declaration>>>>>>>>>>>,line 29
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 32
+<<<<<<Field Declaration>>>>>>>>>>>,line 33
+<<<<<<<Literal>>>>>>,line 35
+<<<<<<<Literal>>>>>>,line 35
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<this keyword>>>>,line 37
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 37
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 37
+<<<<<<this keyword>>>>,line 38
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 38
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 38
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 40
+<<<<<<<Literal>>>>>>,line 40
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 40
+<<<<<<Method Declaration>>>>>>>>>>>,line 40
+<<<<Method Invocation>>>>,line 44
+<<<<Method Invocation>>>>,line 44
+<<<<<<<<<<OR Expression>>>>>>>>>>>>>>,line 44
+<<<<class instance creation,line 45>>>>
+<<<<class instance creation,line 48>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 50
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 50
+<<<<class instance creation,line 50>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 51
+<<<<Method Invocation>>>>,line 51
+<<<<class instance creation,line 51>>>>
+<<<<<<IF ELSE>>>>>>>>>,line 52
+<<<<<<Method Declaration>>>>>>>>>>>,line 53
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<Class Declaration within Class>>>>>>>>>>>,line 54
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 57
+<<<<<<Field Declaration>>>>>>>>>>>,line 57
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 58
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 58
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 58
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 58
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 64
+<<<<<<<Literal>>>>>>,line 65
+<<<<class instance creation,line 66>>>>
+<<<<class instance creation,line 66>>>>
+<<<<class instance creation,line 66>>>>
+<<<<<<<Literal>>>>>>,line 69
+<<<<class instance creation,line 69>>>>
+<<<<<<<Literal>>>>>>,line 70
+<<<<class instance creation,line 70>>>>
+<<<<class instance creation,line 71>>>>
+<<<<class instance creation,line 71>>>>
+<<<<class instance creation,line 71>>>>
+<<<<class instance creation,line 74>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 77
+<<<<Method Invocation>>>>,line 77
+<<<<<<Method Declaration>>>>>>>>>>>,line 78
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 81
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 82
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 82
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 85
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 88
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 88
+<<<<<<<<<<<<<Unary Expression>>>>>>>>>>>,line 88
+<<<<<<<<<<OR Expression>>>>>>>>>>>>>>,line 88
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 88
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<Class Declaration within Class>>>>>>>>>>>,line 90
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<Class Declaration within Class>>>>>>>>>>>,line 91
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 94
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 95
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<Enum Declaration>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 99
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 100
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 103
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 105
+<<<<<<this keyword>>>>,line 106
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 106
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 106
+<<<<<<Method Declaration>>>>>>>>>>>,line 106
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 107
+<<<<<<Method Declaration>>>>>>>>>>>,line 107
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 110
+<<<<<<this keyword>>>>,line 112
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 112
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 112
+<<<<<<Method Declaration>>>>>>>>>>>,line 113
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 114
+<<<<<<Method Declaration>>>>>>>>>>>,line 114
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 116
+<<<<<<<<<<Interface Field Declaration>>>>>>>,line 116
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 117
+<<<<<<Field Declaration>>>>>>>>>>>,line 117
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 120>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 121
+<<<<Field Access>>>>,line 123
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 123
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 123
+<<<<block>>>>>>,line 123
+<<<<<<<Literal>>>>>>,line 123
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 123
+<<<<<<Method Declaration>>>>>>>>>>>,line 124
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 126
+<<<<<<<<<<Interface Field Declaration>>>>>>>,line 126
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 127
+<<<<<<Field Declaration>>>>>>>>>>>,line 127
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 130>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 131
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 132
+<<<<<<Method Declaration>>>>>>>>>>>,line 132
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 135
+<<<<<<<Literal>>>>>>,line 135
+<<<<<<<Literal>>>>>>,line 135
+<<<<<<<<<<Interface Field Declaration>>>>>>>,line 135
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 138
+<<<<<<<Literal>>>>>>,line 138
+<<<<<<<<<<Interface Field Declaration>>>>>>>,line 138
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 140
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 143
+<<<<<<Field Declaration>>>>>>>>>>>,line 143
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 146
+<<<<<<this keyword>>>>,line 147
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 147
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 147
+<<<<<<this keyword>>>>,line 147
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 147
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 147
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<<Literal>>>>>>,line 148
+<<<<<<<Literal>>>>>>,line 148
+<<<<class instance creation,line 148>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 148
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 152
+<<<<<<<Literal>>>>>>,line 152
+<<<<class instance creation,line 152>>>>
+<<<<<<<Literal>>>>>>,line 153
+<<<<<<<Literal>>>>>>,line 153
+<<<<class instance creation,line 153>>>>
+<<<<<<<Literal>>>>>>,line 154
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 154
+<<<<<<<Literal>>>>>>,line 155
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 155
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 156
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 157
+<<<<<<<Literal>>>>>>,line 158
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 158
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 158
+<<<<<<<Literal>>>>>>,line 158
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 158
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 158
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 158
+<<<<<<<Literal>>>>>>,line 158
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 158
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 159
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 160
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 160
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 160
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 161
+<<<<<<Method Declaration>>>>>>>>>>>,line 162
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 165
+<<<<<<Field Declaration>>>>>>>>>>>,line 165
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 168
+<<<<<<Field Declaration>>>>>>>>>>>,line 168
+<<<<class instance creation,line 170>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 171
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 173
+<<<<<<<Literal>>>>>>,line 173
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 173
+<<<<Field Access>>>>,line 173
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 173
+<<<<<<Method Declaration>>>>>>>>>>>,line 174
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 177
+<<<<<<Field Declaration>>>>>>>>>>>,line 177
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<class instance creation,line 181>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 182
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 184
+<<<<<<<Literal>>>>>>,line 184
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 184
+<<<<Field Access>>>>,line 184
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 184
+<<<<<<Method Declaration>>>>>>>>>>>,line 185
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 188
+<<<<<<Field Declaration>>>>>>>>>>>,line 188
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<Literal>>>>>>,line 191
+<<<<<<Field Declaration>>>>>>>>>>>,line 191
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 193
+<<<<<<<Literal>>>>>>,line 193
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 193
+<<<<Field Access>>>>,line 193
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 193
+<<<<<<Method Declaration>>>>>>>>>>>,line 194
+<<<<class instance creation,line 196>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 198
+<<<<<<<Literal>>>>>>,line 198
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 198
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 198
+<<<<block>>>>>>,line 198
+<<<<block>>>>>>,line 198
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 198
+<<<<<<Method Declaration>>>>>>>>>>>,line 199
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<Only class/interface>>>>>>>>>>>>
+Compiled successfully

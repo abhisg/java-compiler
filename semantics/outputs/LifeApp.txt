@@ -1,0 +1,73 @@
+installing CellList in the symbol table 0x95be098
+installing n in the symbol table 0x95be098
+installing a in the symbol table 0x95be098
+installing b in the symbol table 0x95be098
+installing c in the symbol table 0x95be098
+installing generations in the symbol table 0x95be098
+installing background in the symbol table 0x95be098
+installing foreground in the symbol table 0x95be098
+installing livecell in the symbol table 0x95be098
+installing deadcell in the symbol table 0x95be098
+installing border in the symbol table 0x95be098
+installing statusheight in the symbol table 0x95be098
+installing displaywidth in the symbol table 0x95be098
+installing displayheight in the symbol table 0x95be098
+installing cellsize in the symbol table 0x95be098
+installing originx in the symbol table 0x95be098
+installing originy in the symbol table 0x95be098
+installing maxcells in the symbol table 0x95be098
+installing countmsk in the symbol table 0x95be098
+installing posmsk in the symbol table 0x95be098
+installing maxval in the symbol table 0x95be098
+installing statusLine in the symbol table 0x95be098
+installing loading in the symbol table 0x95be098
+installing scroll in the symbol table 0x95be098
+installing rules in the symbol table 0x95be098
+constructor installed
+function loading installed
+function setScroll installed
+function setColors installed
+function setCellColors installed
+function setDisplaySize installed
+installing arbit in the symbol table 0x9646768
+function translate installed
+function recenter installed
+installing x in the symbol table 0x966f6b0
+installing y in the symbol table 0x966f6b0
+function approachcenter installed
+installing retval in the symbol table 0x966f6b0
+function findPattern installed
+installing packed in the symbol table 0x96858f0
+installing plotx in the symbol table 0x96858f0
+installing ploty in the symbol table 0x96858f0
+function zoom installed
+installing x in the symbol table 0x9696d70
+installing y in the symbol table 0x9696d70
+installing cellcount in the symbol table 0x96ac720
+function resizeIfNeeded installed
+installing tmp in the symbol table 0x96ac720
+installing i in the symbol table 0x96ac720
+installing newsize in the symbol table 0x96b55c8
+installing a in the symbol table 0x962fc88
+installing na in the symbol table 0x962fc88
+installing b in the symbol table 0x962fc88
+installing nb in the symbol table 0x962fc88
+installing c in the symbol table 0x962fc88
+function combineLists installed
+installing i in the symbol table 0x962fc88
+installing j in the symbol table 0x962fc88
+installing nc in the symbol table 0x962fc88
+function extractCenterCells installed
+installing i in the symbol table 0x9710590
+installing j in the symbol table 0x9710590
+installing x in the symbol table 0x9728c18
+installing y in the symbol table 0x9728c18
+installing value in the symbol table 0x9728c18
+function Cell installed
+installing packed in the symbol table 0x9736338
+function getPlotX installed
+installing packed in the symbol table 0x97419f0
+function getPlotY installed
+function main installed
+installing x in the symbol table 0x9742ee0
+Compilation complete

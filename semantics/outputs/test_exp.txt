@@ -1,0 +1,48 @@
+function main installed
+installing i in the symbol table 0x8f9b6c8
+installing j in the symbol table 0x8f9b6c8
+function main installed
+installing a in the symbol table 0x8f97958
+installing b in the symbol table 0x8f97958
+function main installed
+installing d in the symbol table 0x8fa6680
+function print3 installed
+function main installed
+installing value in the symbol table 0x8fd7910
+installing next in the symbol table 0x8fd7910
+installing head in the symbol table 0x8fd7910
+installing n in the symbol table 0x8fe9b38
+constructor installed
+function main installed
+installing id in the symbol table 0x8ff4ef0
+installing oldid in the symbol table 0x8ff4ef0
+function main installed
+installing i in the symbol table 0x9002360
+installing ia in the symbol table 0x9002360
+installing x in the symbol table 0x9002360
+installing y in the symbol table 0x9002360
+installing x in the symbol table 0x9016540
+installing y in the symbol table 0x9016540
+constructor installed
+installing s in the symbol table 0x9020c68
+function toString installed
+function toString installed
+installing RED in the symbol table 0x9029b28
+installing GREEN in the symbol table 0x9029b28
+installing BLUE in the symbol table 0x9029b28
+installing color in the symbol table 0x9029b28
+installing x in the symbol table 0x9045760
+installing y in the symbol table 0x9045760
+installing color in the symbol table 0x9045760
+constructor installed
+function toString installed
+installing EDGE in the symbol table 0x9029fa0
+installing x in the symbol table 0x9029fa0
+installing y in the symbol table 0x9029fa0
+function clear installed
+installing dx in the symbol table 0x902a1f8
+installing dy in the symbol table 0x902a1f8
+function move installed
+installing color in the symbol table 0x902a308
+function clear installed
+Compilation complete

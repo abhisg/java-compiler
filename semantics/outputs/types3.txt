@@ -1,0 +1,8 @@
+installing numPoints in the symbol table 0x9f71088
+installing x in the symbol table 0x9f71088
+installing y in the symbol table 0x9f71088
+installing w in the symbol table 0x9f71088
+installing x in the symbol table 0x9f7e918
+function setX installed
+installing oldx in the symbol table 0x9f7e918
+Compilation complete

@@ -1,0 +1,11 @@
+function main installed
+installing a in the symbol table 0x88d2618
+installing z in the symbol table 0x88d2618
+installing k in the symbol table 0x88d2618
+installing s in the symbol table 0x88d2618
+installing check in the symbol table 0x88d2618
+installing g in the symbol table 0x88e4fa0
+installing a in the symbol table 0x88d2618
+function func installed
+installing b in the symbol table 0x88d2618
+Compilation complete

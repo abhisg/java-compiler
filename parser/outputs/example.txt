@@ -1,0 +1,111 @@
+<<<<<<<<<Single Import Statement>>>>>>>>>>>,line 1
+<<<<class instance creation,line 7>>>>
+<<<<<<<Literal>>>>>>,line 11
+<<<<<<<Literal>>>>>>,line 12
+<<<<<<<Literal>>>>>>,line 14
+<<<<<<<Literal>>>>>>,line 15
+<<<<<<<Literal>>>>>>,line 25
+<<<<<<<Literal>>>>>>,line 25
+<<<<<<<Literal>>>>>>,line 25
+<<<<<<<Literal>>>>>>,line 25
+<<<<<<<Literal>>>>>>,line 25
+<<<<<<<Literal>>>>>>,line 25
+<<<<<<<Literal>>>>>>,line 26
+<<<<<<<Literal>>>>>>,line 26
+<<<<<<<Literal>>>>>>,line 26
+<<<<<<<Literal>>>>>>,line 26
+<<<<<<<Literal>>>>>>,line 26
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 28
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<Shift Expression>>>>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<Shift Expression>>>>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<Shift Expression>>>>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<Relational Expression>>>>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<Relational Expression>>>>>>>>>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<<<Ternary Expression>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<<<<Unary Expression>>>>>>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 29
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<<<<<AND Expression>>>>>>>>>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 33
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 34
+<<<<<<<Literal>>>>>>,line 34
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 34
+<<<<<<<Literal>>>>>>,line 34
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 34
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 34
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 35
+<<<<<<<<<<<Postfix>>>>>>>>>>>,line 35
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 35
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 35
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 35
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 36
+<<<<<<<<<<<<<Unary Expression>>>>>>>>>>>,line 36
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 36
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 38
+<<<<<<<Literal>>>>>>,line 38
+<<<<<<<<<<Bitwise AND Expression>>>>>>>>>>>>>>,line 38
+<<<<<<<Literal>>>>>>,line 39
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 39
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 41
+<<<<<<<Literal>>>>>>,line 41
+<<<<<<<<<<Bitwise OR Expression>>>>>>>>>>>>>>,line 41
+<<<<<<<Literal>>>>>>,line 42
+<<<<<<<Literal>>>>>>,line 44
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 44
+<<<<<<<Literal>>>>>>,line 47
+<<<<<<<Literal>>>>>>,line 47
+<<<<<<<Literal>>>>>>,line 47
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 47
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 47
+<<<<<<<Literal>>>>>>,line 47
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 47
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 51
+<<<<<<<Literal>>>>>>,line 51
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 51
+<<<<<<<Literal>>>>>>,line 55
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 55
+<<<<<<IF ELSE>>>>>>>>>,line 57
+<<<<<<IF ELSE>>>>>>>>>,line 57
+<<<<<<Method Declaration>>>>>>>>>>>,line 58
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 59
+<<<<<<<<<<<<<<<<<<<Import and Class/Interface>>>>>>>>>>>>>
+Compiled successfully

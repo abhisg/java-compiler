@@ -1,0 +1,70 @@
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 3
+<<<<<<Method Declaration>>>>>>>>>>>,line 3
+<<<<<<<Literal>>>>>>,line 5
+<<<<<<<Literal>>>>>>,line 5
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 6
+<<<<<<<Literal>>>>>>,line 6
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 6
+<<<<block>>>>>>,line 6
+<<<<<<<Literal>>>>>>,line 6
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 6
+<<<<<<<Literal>>>>>>,line 7
+<<<<<<<Literal>>>>>>,line 7
+<<<<<<<Literal>>>>>>,line 7
+<<<<class instance creation,line 7>>>>
+<<<<<<<Literal>>>>>>,line 10
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 10
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 10
+<<<<<<<Literal>>>>>>,line 10
+<<<<<<<<<<Relational Expression>>>>>>>>>>>>>>,line 10
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 10
+<<<<<<For Statement>>>>>>>>>,line 10
+<<<<<<this keyword>>>>,line 11
+<<<<Field Access>>>>,line 11
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 11
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 11
+<<<<block>>>>>>,line 11
+<<<<<<<Literal>>>>>>,line 11
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 11
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 12
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 12
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 12
+<<<<block>>>>>>,line 12
+<<<<<<<Literal>>>>>>,line 12
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 12
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 13
+<<<<<<<Literal>>>>>>,line 13
+<<<<<<<Literal>>>>>>,line 13
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 13
+<<<<block>>>>>>,line 13
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 13
+<<<<block>>>>>>,line 13
+<<<<<<<Literal>>>>>>,line 13
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 13
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 14
+<<<<<<<Literal>>>>>>,line 14
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 14
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 14
+<<<<block>>>>>>,line 14
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 14
+<<<<block>>>>>>,line 14
+<<<<<<<Literal>>>>>>,line 14
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 14
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 15
+<<<<<<<Literal>>>>>>,line 15
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 15
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 15
+<<<<block>>>>>>,line 15
+<<<<Method Invocation>>>>,line 15
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 15
+<<<<<<Method Declaration>>>>>>>>>>>,line 16
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 17
+<<<<<<<Literal>>>>>>,line 18
+<<<<<<Field Declaration>>>>>>>>>>>,line 18
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<Package and Class/Interface>>>>>>>>>
+Compiled successfully

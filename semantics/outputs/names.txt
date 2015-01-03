@@ -1,0 +1,14 @@
+installing value in the symbol table 0x8c12088
+installing offset in the symbol table 0x8c12088
+installing count in the symbol table 0x8c12088
+installing str in the symbol table 0x8c1d490
+installing fromIndex in the symbol table 0x8c1d490
+function indexOf installed
+installing v1 in the symbol table 0x8c1d490
+installing v2 in the symbol table 0x8c1d490
+installing max in the symbol table 0x8c1d490
+installing start in the symbol table 0x8c1d490
+installing n in the symbol table 0x8c2f1b0
+installing j in the symbol table 0x8c2f1b0
+installing k in the symbol table 0x8c2f1b0
+Compilation complete

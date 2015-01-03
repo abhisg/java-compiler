@@ -1,0 +1,609 @@
+keyword import on line 1,column 1
+identifier java on line 1,column 8
+operator . on line 1,column 12
+identifier util on line 1,column 13
+operator . on line 1,column 17
+operator * on line 1,column 18
+separator ; on line 1,column 19
+
+-----Lexical analyser on line 2------
+
+keyword private on line 2,column 1
+keyword class on line 2,column 9
+identifier A on line 2,column 15
+
+-----Lexical analyser on line 3------
+
+separator { on line 3,column 1
+
+-----Lexical analyser on line 4------
+
+keyword public on line 4,column 2
+identifier String on line 4,column 9
+identifier getName on line 4,column 16
+separator ( on line 4,column 23
+identifier String on line 4,column 24
+identifier s1 on line 4,column 31
+separator , on line 4,column 33
+identifier String on line 4,column 34
+identifier s2 on line 4,column 41
+separator ) on line 4,column 43
+
+-----Lexical analyser on line 5------
+
+separator { on line 5,column 2
+
+-----Lexical analyser on line 6------
+
+keyword return on line 6,column 3
+string "A" on line 6,column 10
+operator + on line 6,column 13
+identifier s1 on line 6,column 14
+operator + on line 6,column 16
+identifier s2 on line 6,column 17
+separator ; on line 6,column 19
+
+-----Lexical analyser on line 7------
+
+separator } on line 7,column 2
+
+-----Lexical analyser on line 8------
+
+separator } on line 8,column 1
+
+-----Lexical analyser on line 9------
+
+keyword public on line 9,column 1
+keyword class on line 9,column 8
+identifier example on line 9,column 14
+
+-----Lexical analyser on line 10------
+
+separator { on line 10,column 1
+
+-----Lexical analyser on line 11------
+
+multi line comment /* this comment /* // /** ends here: */
+
+-----Lexical analyser on line 12------
+
+keyword public on line 12,column 2
+keyword static on line 12,column 9
+keyword void on line 12,column 16
+identifier main on line 12,column 21
+separator ( on line 12,column 25
+identifier String on line 12,column 26
+identifier args on line 12,column 33
+separator [ on line 12,column 37
+separator ] on line 12,column 38
+separator ) on line 12,column 39
+
+-----Lexical analyser on line 13------
+
+separator { on line 13,column 2
+
+-----Lexical analyser on line 14------
+
+identifier A on line 14,column 3
+identifier obj on line 14,column 5
+operator = on line 14,column 9
+keyword new on line 14,column 11
+identifier A on line 14,column 15
+separator ( on line 14,column 16
+separator ) on line 14,column 17
+separator ; on line 14,column 18
+
+-----Lexical analyser on line 15------
+
+
+-----Lexical analyser on line 16------
+
+comment //check unicode escape and octal escape on line 16
+
+-----Lexical analyser on line 17------
+
+keyword char on line 17,column 3
+identifier ch1 on line 17,column 8
+operator = on line 17,column 11
+character '\u1234' on line 17,column 12
+separator ; on line 17,column 20
+
+-----Lexical analyser on line 18------
+
+keyword char on line 18,column 3
+identifier ch2 on line 18,column 8
+operator = on line 18,column 11
+character '\012' on line 18,column 12
+separator ; on line 18,column 18
+multi line comment /*This is an 
+					octal escape*/
+
+-----Lexical analyser on line 20------
+
+keyword char on line 20,column 3
+identifier ch3 on line 20,column 8
+operator = on line 20,column 11
+character '\'' on line 20,column 12
+separator ; on line 20,column 16
+multi line comment /*******This is a normal escape************/
+
+-----Lexical analyser on line 21------
+
+keyword char on line 21,column 3
+identifier ch on line 21,column 8
+operator = on line 21,column 10
+character 'a' on line 21,column 11
+separator ; on line 21,column 14
+multi line comment /*Normal character*/
+
+-----Lexical analyser on line 22------
+
+keyword char on line 22,column 3
+identifier ch4 on line 22,column 8
+operator = on line 22,column 11
+' is erraneous on line 22,column 12
+identifier asdd on line 22,column 13
+' is erraneous on line 22,column 17
+separator ; on line 22,column 18
+comment //This is an error on line 22
+
+-----Lexical analyser on line 23------
+
+
+-----Lexical analyser on line 24------
+
+keyword switch on line 24,column 3
+separator ( on line 24,column 9
+identifier ch on line 24,column 10
+separator ) on line 24,column 12
+
+-----Lexical analyser on line 25------
+
+separator { on line 25,column 3
+
+-----Lexical analyser on line 26------
+
+keyword case on line 26,column 4
+character 'a' on line 26,column 9
+operator : on line 26,column 12
+keyword long on line 26,column 13
+identifier c on line 26,column 18
+operator = on line 26,column 19
+number 12L on line 26,column 20
+separator ; on line 26,column 23
+
+-----Lexical analyser on line 27------
+
+keyword break on line 27,column 5
+separator ; on line 27,column 10
+
+-----Lexical analyser on line 28------
+
+keyword default on line 28,column 4
+operator : on line 28,column 11
+keyword short on line 28,column 12
+identifier d on line 28,column 18
+operator = on line 28,column 19
+number 1 on line 28,column 20
+separator ; on line 28,column 21
+
+-----Lexical analyser on line 29------
+
+keyword break on line 29,column 5
+separator ; on line 29,column 10
+
+-----Lexical analyser on line 30------
+
+separator } on line 30,column 3
+
+-----Lexical analyser on line 31------
+
+multi line comment /*Test the identifiers.
+		  Check the data type*/
+
+-----Lexical analyser on line 33------
+
+keyword int on line 33,column 3
+separator [ on line 33,column 6
+separator ] on line 33,column 7
+identifier x_123 on line 33,column 9
+operator = on line 33,column 14
+separator { on line 33,column 15
+octal number 0_1_2_3_4_14 on line 33,column 16
+separator , on line 33,column 28
+number 2 on line 33,column 29
+separator , on line 33,column 32
+octal number 0372 on line 33,column 35
+separator , on line 33,column 39
+hexadecimal number 0xDada_Cafe on line 33,column 44
+separator , on line 33,column 56
+number 1996 on line 33,column 60
+separator , on line 33,column 65
+hexadecimal number 0x00_FF__00_FF on line 33,column 69
+separator } on line 33,column 83
+separator ; on line 33,column 84
+
+-----Lexical analyser on line 34------
+
+keyword long on line 34,column 3
+separator [ on line 34,column 7
+separator ] on line 34,column 8
+identifier $y on line 34,column 10
+operator = on line 34,column 12
+separator { on line 34,column 13
+octal number 0l on line 34,column 14
+separator , on line 34,column 16
+octal number 0777L on line 34,column 21
+separator , on line 34,column 26
+hexadecimal number 0x100000000L on line 34,column 31
+separator , on line 34,column 44
+number 2_147_483_648L on line 34,column 48
+separator , on line 34,column 64
+hexadecimal number 0xC0B0L on line 34,column 67
+separator } on line 34,column 74
+separator ; on line 34,column 75
+
+-----Lexical analyser on line 35------
+
+keyword float on line 35,column 3
+separator [ on line 35,column 8
+separator ] on line 35,column 9
+identifier $123f on line 35,column 11
+operator = on line 35,column 16
+separator { on line 35,column 17
+hexadecimal float 0XAb.ffp-12f on line 35,column 18
+separator , on line 35,column 30
+float 1e1f on line 35,column 31
+separator , on line 35,column 37
+float 2.f on line 35,column 40
+separator , on line 35,column 45
+float .3f on line 35,column 48
+separator , on line 35,column 53
+float 0f on line 35,column 56
+separator , on line 35,column 60
+float 3.14f on line 35,column 63
+separator , on line 35,column 70
+float 6.022137e+23f on line 35,column 73
+separator } on line 35,column 86
+separator ; on line 35,column 87
+
+-----Lexical analyser on line 36------
+
+keyword double on line 36,column 3
+separator [ on line 36,column 9
+separator ] on line 36,column 10
+identifier d_34_5 on line 36,column 12
+operator = on line 36,column 18
+separator { on line 36,column 19
+hexadecimal float 0x.12p-12 on line 36,column 20
+separator , on line 36,column 29
+float 1e1 on line 36,column 30
+separator , on line 36,column 34
+float 2. on line 36,column 38
+separator , on line 36,column 41
+float .3 on line 36,column 45
+separator , on line 36,column 48
+float 0.0 on line 36,column 52
+separator , on line 36,column 56
+float 3.14 on line 36,column 60
+separator , on line 36,column 64
+float 1e-9d on line 36,column 69
+separator , on line 36,column 75
+float 1e137 on line 36,column 79
+separator } on line 36,column 84
+separator ; on line 36,column 85
+
+-----Lexical analyser on line 37------
+
+keyword boolean on line 37,column 3
+identifier res on line 37,column 11
+operator = on line 37,column 15
+separator ( on line 37,column 17
+separator ( on line 37,column 18
+separator ( on line 37,column 19
+number 3 on line 37,column 20
+operator >>> on line 37,column 22
+number 2 on line 37,column 26
+separator ) on line 37,column 27
+operator + on line 37,column 28
+separator ( on line 37,column 29
+number 4 on line 37,column 30
+operator << on line 37,column 32
+number 2 on line 37,column 35
+separator ) on line 37,column 36
+operator - on line 37,column 37
+separator ( on line 37,column 38
+number 2 on line 37,column 39
+operator >> on line 37,column 41
+number 2 on line 37,column 44
+separator ) on line 37,column 45
+separator ) on line 37,column 46
+operator > on line 37,column 48
+number 5 on line 37,column 50
+separator ) on line 37,column 51
+operator && on line 37,column 53
+separator ( on line 37,column 56
+separator ( on line 37,column 57
+number 4 on line 37,column 58
+operator > on line 37,column 60
+number 5 on line 37,column 62
+operator ? on line 37,column 64
+literal true on line 37,column 66
+operator : on line 37,column 70
+literal false on line 37,column 71
+separator ) on line 37,column 76
+operator != on line 37,column 78
+separator ( on line 37,column 81
+operator ~ on line 37,column 82
+number 4 on line 37,column 83
+operator == on line 37,column 85
+number 5 on line 37,column 88
+separator ) on line 37,column 89
+separator ) on line 37,column 90
+separator ; on line 37,column 91
+
+-----Lexical analyser on line 38------
+
+
+-----Lexical analyser on line 39------
+
+multi line comment /*Check the operators****
+		  ***Arithmetic,logical and relational****/
+
+-----Lexical analyser on line 41------
+
+keyword int on line 41,column 3
+identifier test on line 41,column 7
+operator = on line 41,column 12
+number 0 on line 41,column 14
+separator ; on line 41,column 15
+
+-----Lexical analyser on line 42------
+
+identifier test on line 42,column 3
+operator &= on line 42,column 8
+identifier test on line 42,column 11
+operator / on line 42,column 15
+number 4 on line 42,column 16
+operator % on line 42,column 18
+number 2 on line 42,column 20
+separator ; on line 42,column 21
+
+-----Lexical analyser on line 43------
+
+identifier test on line 43,column 3
+operator |= on line 43,column 8
+identifier test on line 43,column 11
+operator ++ on line 43,column 15
+operator + on line 43,column 18
+operator -- on line 43,column 20
+identifier test on line 43,column 22
+separator ; on line 43,column 26
+
+-----Lexical analyser on line 44------
+
+identifier test on line 44,column 3
+operator = on line 44,column 8
+operator ~ on line 44,column 10
+identifier test on line 44,column 11
+separator ; on line 44,column 15
+
+-----Lexical analyser on line 45------
+
+multi line comment /****Check the string constants*************/
+
+-----Lexical analyser on line 46------
+
+keyword if on line 46,column 3
+separator ( on line 46,column 5
+identifier test on line 46,column 6
+operator & on line 46,column 11
+number 1 on line 46,column 13
+separator ) on line 46,column 14
+
+-----Lexical analyser on line 47------
+
+print statement System.out.println on line 47,column 4
+separator ( on line 47,column 22
+string "result=i \n \t \\ \" \' \034 \uffff" on line 47,column 23
+operator + on line 47,column 60
+identifier obj on line 47,column 61
+operator . on line 47,column 64
+identifier getName on line 47,column 65
+separator ( on line 47,column 72
+string "Abhijit" on line 47,column 73
+separator , on line 47,column 82
+string "Sharang" on line 47,column 83
+separator ) on line 47,column 92
+separator ) on line 47,column 93
+separator ; on line 47,column 94
+
+-----Lexical analyser on line 48------
+
+keyword else on line 48,column 3
+keyword if on line 48,column 8
+separator ( on line 48,column 10
+identifier test on line 48,column 11
+operator | on line 48,column 16
+number 1 on line 48,column 18
+separator ) on line 48,column 19
+
+-----Lexical analyser on line 49------
+
+print statement System.out.println on line 49,column 4
+separator ( on line 49,column 22
+string "Print:\"My name is Abhijit\"" on line 49,column 23
+separator ) on line 49,column 53
+separator ; on line 49,column 54
+
+-----Lexical analyser on line 50------
+
+keyword else on line 50,column 3
+
+-----Lexical analyser on line 51------
+
+separator { on line 51,column 3
+
+-----Lexical analyser on line 52------
+
+keyword try on line 52,column 4
+
+-----Lexical analyser on line 53------
+
+separator { on line 53,column 4
+
+-----Lexical analyser on line 54------
+
+print statement System.out.print on line 54,column 5
+separator ( on line 54,column 21
+string "Number" on line 54,column 22
+operator + on line 54,column 30
+number 1 on line 54,column 31
+operator / on line 54,column 32
+number 0 on line 54,column 33
+operator + on line 54,column 34
+string "is real\n" on line 54,column 35
+separator ) on line 54,column 46
+separator ; on line 54,column 47
+
+-----Lexical analyser on line 55------
+
+print statement System.out.println on line 55,column 5
+separator ( on line 55,column 23
+string "This string is invalid" on line 55,column 24
+operator + on line 55,column 48
+" is erraneous on line 55,column 49
+identifier you on line 55,column 50
+
+-----Lexical analyser on line 56------
+
+identifier cannot on line 56,column 6
+keyword break on line 56,column 13
+identifier a on line 56,column 19
+identifier string on line 56,column 21
+" is erraneous on line 56,column 27
+separator ) on line 56,column 28
+separator ; on line 56,column 29
+
+-----Lexical analyser on line 57------
+
+identifier String on line 57,column 5
+identifier s on line 57,column 12
+operator = on line 57,column 13
+" is erraneous on line 57,column 14
+\ is erraneous on line 57,column 15
+identifier u12 on line 57,column 16
+" is erraneous on line 57,column 19
+separator ; on line 57,column 20
+
+-----Lexical analyser on line 58------
+
+print statement System.out.println on line 58,column 5
+separator ( on line 58,column 23
+identifier s on line 58,column 24
+operator + on line 58,column 25
+string "\tis\t\"invalid\"\n" on line 58,column 26
+separator ) on line 58,column 47
+separator ; on line 58,column 48
+
+-----Lexical analyser on line 59------
+
+separator } on line 59,column 4
+
+-----Lexical analyser on line 60------
+
+keyword catch on line 60,column 4
+
+-----Lexical analyser on line 61------
+
+print statement System.out.print on line 61,column 5
+separator ( on line 61,column 21
+string "The answer is " on line 61,column 22
+operator + on line 61,column 38
+literal false on line 61,column 39
+separator ) on line 61,column 44
+separator ; on line 61,column 45
+
+-----Lexical analyser on line 62------
+
+separator } on line 62,column 3
+
+-----Lexical analyser on line 63------
+
+separator } on line 63,column 2
+
+-----Lexical analyser on line 64------
+
+separator } on line 64,column 1
+
+-----Lexical analyser on line 65------
+
+
+-----Printing the contents of the symbol table-----
+
+lexeme import of type 0 was found at line 1
+lexeme java of type 1 was found at line 1
+lexeme util of type 1 was found at line 1
+lexeme private of type 0 was found at line 2
+lexeme class of type 0 was found at line 2
+lexeme A of type 1 was found at line 2
+lexeme public of type 0 was found at line 4
+lexeme String of type 1 was found at line 4
+lexeme getName of type 1 was found at line 4
+lexeme s1 of type 1 was found at line 4
+lexeme s2 of type 1 was found at line 4
+lexeme return of type 0 was found at line 6
+lexeme example of type 1 was found at line 9
+lexeme static of type 0 was found at line 12
+lexeme void of type 0 was found at line 12
+lexeme main of type 1 was found at line 12
+lexeme args of type 1 was found at line 12
+lexeme obj of type 1 was found at line 14
+lexeme new of type 0 was found at line 14
+lexeme char of type 0 was found at line 17
+lexeme ch1 of type 1 was found at line 17
+lexeme ch2 of type 1 was found at line 18
+lexeme ch3 of type 1 was found at line 20
+lexeme ch of type 1 was found at line 21
+lexeme ch4 of type 1 was found at line 22
+lexeme asdd of type 1 was found at line 22
+lexeme switch of type 0 was found at line 24
+lexeme case of type 0 was found at line 26
+lexeme long of type 0 was found at line 26
+lexeme c of type 1 was found at line 26
+lexeme break of type 0 was found at line 27
+lexeme default of type 0 was found at line 28
+lexeme short of type 0 was found at line 28
+lexeme d of type 1 was found at line 28
+lexeme int of type 0 was found at line 33
+lexeme x_123 of type 1 was found at line 33
+lexeme $y of type 1 was found at line 34
+lexeme float of type 0 was found at line 35
+lexeme $123f of type 1 was found at line 35
+lexeme double of type 0 was found at line 36
+lexeme d_34_5 of type 1 was found at line 36
+lexeme boolean of type 0 was found at line 37
+lexeme res of type 1 was found at line 37
+lexeme true of type 2 was found at line 37
+lexeme false of type 2 was found at line 37
+lexeme test of type 1 was found at line 41
+lexeme if of type 0 was found at line 46
+lexeme else of type 0 was found at line 48
+lexeme try of type 0 was found at line 52
+lexeme you of type 1 was found at line 55
+lexeme cannot of type 1 was found at line 56
+lexeme a of type 1 was found at line 56
+lexeme string of type 1 was found at line 56
+lexeme s of type 1 was found at line 57
+lexeme u12 of type 1 was found at line 57
+lexeme catch of type 0 was found at line 60
+
+-----Printing the contents of the error dump-------
+
+Error ' was found at line 22
+Error ' was found at line 22
+Error " was found at line 55
+Error " was found at line 56
+Error " was found at line 57
+Error \ was found at line 57
+Error " was found at line 57

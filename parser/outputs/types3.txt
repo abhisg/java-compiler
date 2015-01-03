@@ -1,0 +1,79 @@
+<<<<<<<<<Single Import Statement>>>>>>>>>>>,line 1
+<<<<<<<Literal>>>>>>,line 3
+<<<<<<Method Declaration>>>>>>>>>>>,line 3
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 4
+<<<<class instance creation,line 9>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 9
+<<<<<<<Literal>>>>>>,line 12
+<<<<Method Invocation>>>>,line 13
+<<<<Method Invocation>>>>,line 15
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 17
+<<<<<<Method Declaration>>>>>>>>>>>,line 19
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 22
+<<<<<<this keyword>>>>,line 23
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 23
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 23
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 26
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 26
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 28
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 28
+<<<<<<<<<<Relational Expression>>>>>>>>>>>>>>,line 28
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 29
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 29
+<<<<<<<Literal>>>>>>,line 31
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 31
+<<<<<<IF ELSE>>>>>>>>>,line 31
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 33
+<<<<<<<<<<<<<Unary Expression>>>>>>>>>>>,line 33
+<<<<<<Method Declaration>>>>>>>>>>>,line 34
+<<<<class instance creation,line 36>>>>
+<<<<<<<Literal>>>>>>,line 37
+<<<<<<<Literal>>>>>>,line 38
+<<<<Method Invocation>>>>,line 38
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 38
+<<<<<<<Literal>>>>>>,line 39
+<<<<Method Invocation>>>>,line 39
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 39
+<<<<<<<Literal>>>>>>,line 40
+<<<<Array Access>>>>,line 40
+<<<<<<<Literal>>>>>>,line 40
+<<<<Array Access>>>>,line 40
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 40
+<<<<block>>>>>>,line 40
+<<<<<<<Literal>>>>>>,line 40
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 40
+<<<<<<Method Declaration>>>>>>>>>>>,line 41
+<<<<class instance creation,line 43>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 44
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 44
+<<<<<<For Statement>>>>>>>>>,line 44
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 45
+<<<<<<Method Declaration>>>>>>>>>>>,line 46
+<<<<<<this keyword>>>>,line 47
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 47
+<<<<<<Method Declaration>>>>>>>>>>>,line 47
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 50
+<<<<<<Field Declaration>>>>>>>>>>>,line 51
+<<<<<<<Literal>>>>>>,line 52
+<<<<<<Field Declaration>>>>>>>>>>>,line 52
+<<<<<<this keyword>>>>,line 54
+<<<<Field Access>>>>,line 54
+<<<<<<this keyword>>>>,line 55
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 55
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 55
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 56
+<<<<<<Method Declaration>>>>>>>>>>>,line 57
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<Import and Class/Interface>>>>>>>>>>>>>
+Compiled successfully

@@ -1,0 +1,6 @@
+function sort installed
+installing N in the symbol table 0x9917038
+installing mid in the symbol table 0x9917038
+installing i in the symbol table 0x9917038
+installing j in the symbol table 0x9917038
+Compilation complete

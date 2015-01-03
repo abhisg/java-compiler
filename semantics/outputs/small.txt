@@ -1,0 +1,6 @@
+installing arr in the symbol table 0x82868d0
+installing ar in the symbol table 0x828cb30
+constructor installed
+function main installed
+installing ar in the symbol table 0x8293590
+Compilation complete

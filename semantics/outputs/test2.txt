@@ -1,0 +1,10 @@
+installing i in the symbol table 0x97e3ef0
+installing j in the symbol table 0x97e3ef0
+function sq installed
+installing A in the symbol table 0x97e3ef0
+function add installed
+installing test in the symbol table 0x97ee5b0
+ERROR:Illegal method invocation at line 9
+ERROR:Incorrect usage of = on line 9
+ERROR:Invalid return type on line 10
+Compilation complete

@@ -1,0 +1,6 @@
+installing i in the symbol table 0x925aef0
+installing j in the symbol table 0x925aef0
+function sq installed
+ERROR:Type mismatch at line 3
+installing A in the symbol table 0x925aef0
+Compilation complete

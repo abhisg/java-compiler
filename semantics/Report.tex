@@ -1,0 +1,123 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{body={6.51in, 9.0in},
+  left=0.9in,
+  top=1in,
+  bottom=0.2in
+}
+\title{Object co-segmentation across multiple images using saliency and novel region merging technique}
+\author{Abhijit Sharang,Mohd. Dawood}
+\date{}
+\begin{document}
+\maketitle
+\begin{abstract}
+\emph{Segmenting similar objects from multiple images is a challenging problem due to variation in image properties.In this project,we have examined the effectivenss of saliency as a feature for segmenting objects from multiple images.We divide the images into various regions and then attempt to merge similar regions in order to obtain a region which contains the most salient object.Our experiments show that saliency is more effective than other image features for co-segmentation}
+\end{abstract}
+\section{Introduction}
+Image segmentation is an important problem in Computer Vision.Segmenting a salient object from the image significantly reduces computation as subsequent algorithm design can be focussed on the salient object itself.Segmentation finds applications in tasks like action recognition,object recognition and semantic understanding of the scene.\\\\
+Co-segmentation deals with the issue of segmenting common objects from a series of images given by the user.As compared to traditional segmentation methods,co-segmentation enjoys the advantage of less human supervision and enriched understanding of the object to be segmented.While traditional segmentation requires object priors and supervised training,co-segmentation algorithms can extract a significant amount of information from other related images.\\\\
+In many existing approaches,co-segmentation is commonly formulated as an optimisation problem with added constraints on foreground similarity\cite{conf/cvpr/RotherMBK06}\cite{conf/cvpr/MukherjeeSD09}\cite{Hochbaum:2001:EAI:502090.502093}.Some more recent approaches involve extracting useful features from images and using them to co-segment similar objects.\cite{conf/cvpr/JoulinBP10} used a combination of discriminative clustering and spectral clustering to train a classifier.In the work of \cite{Vicente:2011:OC:2191740.2191840},the set of useful features was selected from a total of 33 features through random forest regressor.\cite{GunheeKim:2011:DCV:2355573.2356257} located seeded points using anisotropic heat diffusion method and random walks segmentation method was employed for common objects segmentation.\\\\
+An important challenge in all these methods is dealing with images which might have common background.For example in \emph{Figure 1}\footnote{Adapted from the work of \cite{6194335}},the background seems to have more similar features than the foreground.It seems important that features in the background,however strong,must be ignored for accurate segmentation.Image saliency does exactly the same by boosting the foreground while reducing the importance of the background.\\\\
+The rest of the report is divided into three sections.In section 2,we discuss the methodology adapted.In section 3,we give the experimental details.Finally,in section 4,we discuss the results obtained.\\\\
+\begin{center}
+\vspace{-5 mm}
+\includegraphics[scale=0.55]{pic.png}
+\\Figure 1
+\end{center}
+%\newpage
+\section{Methodology adapted}
+\subsection{Saliency map generation}
+For segmenting images using saliency,we need saliency maps of very high quality.We first obtain the saliency maps constructed using Histogram based contrast method proposed by \cite{11cvpr/Cheng_Saliency}.We then improve the saliency maps using the method discussed by \cite{6194335}.The mathematical details are described below.\\\\
+While constructing the HC saliency maps,we quantise the colours in the RGB space and compute saliency based on colour contrast in the $L^{*}a^{*}b^{*}$ space.The metric for contrast is the Euclidean distance between the colours.Hence,the saliency of pixels which are of the same colour is same.We then perform saliency smoothing as discussed by \cite{11cvpr/Cheng_Saliency}.The saliency maps hence obtained are refined by computing the co-saliency described by \cite{6194335}.We define co-saliency as,\\\\
+\hspace*{3 cm}
+$\beta_{ik}$ = $N(\sum_{j=1,j \neq i}^{m}\sum_{l=1}^{b_j}d(\phi_{ik},\phi_{jl})\alpha_{jl})$\\\\
+\normalsize
+where,\\\\
+$\alpha_{jl}$ = HC saliency of the $l_{th}$ colour in the $j_{th}$ image.\\
+$\phi_{ik}$ = the $L^{*}a^{*}b^{*}$ vector of the $k_{th}$ colour in the $i_{th}$ image.\\
+$\phi_{jl}$ = the $L^{*}a^{*}b^{*}$ vector of the $l_{th}$ colour in the $j_{th}$ image.\\
+$N$ = normalising factor.\\
+$d(\phi_{ik},\phi_{jl})$ = the distance between colours $\phi_{ik}$ and $\phi_{jl}$\\\\
+The distance $d(\phi_{ik},\phi_{jl})$ is defined as,\\\\
+\hspace*{3 cm}
+$d(\phi_{ik},\phi_{jl})$ = $e^{(-\frac{|\phi_{ik}-\phi_{jl}|}{2\sigma^{2}})}$\\\\
+\normalsize
+where $|.|$ is the $L1$ norm of the vector difference and $\sigma$ is the tuning parameter.\\\\
+The saliency of a colour is then defined as,\\\\
+\hspace*{3 cm} $\eta_{ik}$ = $\alpha_{ik}$ + $\beta_{ik}$\\\\
+A comparison of saliency maps obtained by HC method and co-saliency method is shown in \emph{Figure 2}.Evidently,co-saliency method allows us to construct better quality saliency maps as the saliency of the top performing colors is boosted and that of the less significant colours is downgraded. \\\\
+\begin{center}
+\includegraphics[scale=0.55]{salcomp.png}
+\\Figure 2
+\\Top:HC Saliency maps
+\\Bottom:Co-Saliency maps
+\end{center}
+\newpage
+\subsection{Object segmentation}
+Having computed the co-saliency maps,we fragment each image into various regions using the graph based segmentation method proposed by \cite{Felzenszwalb:2004:EGI:981793.981796}.One such fragmentation is shown in \emph{Figure 3}.We keep the number of segments to be large so that the non-salient regions and the salient regions are segregated.Then we compute the saliency of the regions as follows:\\\\
+\hspace*{3 cm} $s_{ij}$ = $(\frac{\sum_{(k,l)\in p_{ij}} S_i(k,l)}{n_{ij}})n^{sal}_{ij}$\\\\
+\normalsize
+where,\\\\
+$S_i(k,l)$ = saliency of the pixel at $(k,l)$.\\
+$p_{ij}$ is the $j_{th}$ region in the $i_{th}$ image\\
+$n^{sal}_{ij}$ is the number of salient pixels in the region $p_{ij}$\\
+$n_{ij}$ is the number of pixels in the region $p_{ij}$\\\\
+A pixel is classified as a salient pixel if its saliency is deviant from the mean saliency of all pixels in the image.The choice of mean as the discriminator is based on the idea that salient pixels are \emph{outliers} in the otherwise uniform image because of their element of contast.In our experiments,the threshold $\tau$ for the salient pixel for each image is set as $mean_{saliency}+0.1*stddev_{saliency}$.\\\\
+As discussed earlier,the number of regions into which the images are divided is large.Hence,a salient object might span many regions.To obtain the salient object,we perform \emph{region merging}.The description for the same is given below.\\\\
+We first select the region which has the maximum saliency as computed from the formula given above.We choose this region as the seed region.We assume that the ratio $n^{sal}_{ij}/n_{ij}$ would be fairly uniform across the regions which encompass the salient object.We merge all regions which have the stated ratio fairly close to the ratio in the salient region computed above.The region thus obtained is then designated as the most salient region in the image and is segmented as the foreground.The result of applying region merging on the fragments in \emph{Figure 3} is shown in \emph{Figure 4}.\\\\
+\begin{center}
+\includegraphics[scale=0.5]{regionsplit.png}\\
+Figure 3\\
+\vspace{0.8 cm}
+\includegraphics[scale=0.2]{seg.png}\\
+Figure 4:Merged region\\
+\end{center}
+\newpage
+\section{Experimentation}
+The method for segmentation discussed above was tested on 15 categories of the \emph{ICoseg} dataset\cite{conf/cvpr/BatraKPLC10}.\\These categories were \emph{Balloon, Pyramid, Christ, Liberty, Taj, Speed, Skating, Bear, Gymnast, Sox, Airshow, Helicopter, Kendo, Windmill} and \emph{Kite}.All images available in each category were used.The conversion from RGB to $L^{*}a^{*}b^{*}$ was done using a MATLAB\textsuperscript{\textregistered} code made available by \emph{Mark A. Ruzon}\footnote{Website:http://robotics.stanford.edu/~ruzon/software/rgblab.html}.The codes for computing HC saliency,co-saliency,region wise saliency and region merging were written by us in MATLAB\textsuperscript{\textregistered}.The region fragmentation was performed using the code made available by \cite{Felzenszwalb:2004:EGI:981793.981796}.\\On an average,16 regions were obtained for each image in each category.The average number of images per category was 20.Experimentation was also intended to be performed on some categories of images in the MSRC dataset but had to be abandoned due to extremely poor fragmentation of the images.\\\\
+The error rate was calculated for each category and compared with the error rates obtained in methods proposed by \cite{conf/cvpr/JoulinBP10},\cite{Vicente:2011:OC:2191740.2191840} and \cite{GunheeKim:2011:DCV:2355573.2356257}.The error rates for these methods were taken verbatim from \cite{6194335}.For each category,the error rate is the average of $error_{image}$ computed for each image in the category,where,\\\\
+\hspace*{3 cm}$error_{image}=\frac{number of misclassified pixels}{number of pixels}$\\\\Similarly,the average $F score$ was computed for each category.The $F score$ for each image is defined as,\\\\
+\hspace*{3 cm}$F score$ = $\frac{2*prec*recall}{prec+recall}$\\\\
+Some co-segmentation results are displayed below.\\
+\begin{center}
+\includegraphics[width=100 mm,height=30 mm]{libery.png}\\
+\includegraphics[width=100 mm,height=30 mm]{kendo.png}
+\includegraphics[width=100 mm,height=30 mm]{pyramid.png}
+\includegraphics[width=100 mm,height=30 mm]{windmill.png}\\
+Categories(From Top to Bottom):Liberty,Kendo,Pyramid,Windmill
+\end{center}
+%\newpage
+\section{Results and Discussions}
+The $F scores$ and the error rate comparison are displayed in \emph{Figure 5} and \emph{Figure 6} respectively.The precision-recall curve is displayed in \emph{Figure 7} in the next page\\
+\vspace{-10 mm}
+\begin{center}
+\includegraphics[scale=0.4]{f_score.jpg}\\Figure 5\\
+\includegraphics[scale=0.4]{final_res.jpg}\\Figure 6\\
+\end{center}
+\begin{center}
+\includegraphics[width=180 mm,height=90 mm]{precrec.png}\\Figure 7\\
+\end{center}
+The error rates in most of the categories is lower for our method when compared with the methods which do not take saliency into account.This establishes the fact that saliency is highly efficient for co-segmentation.Moreover,the region merging algorithm which we have proposed is useful for obtaining the most salient object from various fragments of the image as is evident from the high F-scores in most categories.The algorithm overcomes the limitation of the segmentation methods proposed by \cite{6194335} and \cite{11cvpr/Cheng_Saliency} where the salient object should be present in one single region for proper segmentation.\\\\
+The only bottleneck for the method seems to be the case where some parts of the image match in colour with some colours present in the salient object.In these cases,the region merging algorithm merges these regions with the regions which encompass the salient object.This is shown by low F-score in case of the category \emph{Speed},where much of the background shared its colour with some colours in the foreground.An example of such merging is shown below.\\
+\begin{center}
+\includegraphics[scale=0.25]{fail.png}\\Fig:A case of unwanted region merging\\
+\end{center}
+\vspace{5 mm}
+In this project,we used only saliency as a differentating feature between foreground and background.The method can be further improved if some more features like shape similarity are taken into account for segmentation.Moreover,superior region fragmentation algorithms can be used in cases where the graph based algorithm does not give good fragmentation.\\\\
+\newpage
+%\begin{thebibliography}{10}
+%\bibitem{1} Meng, F.; Li, H.; Liu, G.; Ngan, K. N.; , ``Object Co-Segmentation Based on Shortest Path Algorithm and Saliency Model," Multimedia, IEEE Transactions on , vol.14, no.5, pp.1429-1441, Oct. 2012
+%\bibitem{2} C. Rother, V. Kolmogorov, T. Minka, and A. Blake, ``Cosegmentation of image pairs by histogram matching-incorporating a global constraint into mrfs," \emph{in Proc. IEEE Conf. Computer Vision and Pattern Recognition}, Jun. 2006, pp. 993-1000.
+%\bibitem{3} L. Mukherjee, V. Singh, and C. R. Dyer, ``Half-integrality based algorithms for cosegmentation of images," \emph{in Proc. IEEE Conf. Computer Vision and Pattern Recognition}, Jun. 2009, pp. 2028-2035.
+%\bibitem{4} D. S. Hochbaum and V. Singh, ``An efficient algorithm for cosegmentation," \emph{in Proc. Int. Conf. Computer Vision}, Oct. 2009, pp. 269-276.
+%\bibitem{5} A. Joulin, F. Bach, and J. Ponce, ``Discriminative clustering for image co-segmentation," \emph{in Proc. IEEE Conf. Computer Vision and Pattern Recognition}, Jun. 2010, pp. 1943-1950.
+%\bibitem{6} S. Vicente, C. Rother, and V. Kolmogorov, ``Object cosegmentation," \emph{in Proc. IEEE Conf. Computer Vision and Pattern Recognition}, Jun. 2011, pp. 2217-2224.
+%\bibitem{7} G. Kim, E. P. Xing, L. Fei-Fei, and T. Kanade, ``Distributed cosegmentation via submodular optimization on anisotropic diffusion," in Proc. Int. Conf. Computer Vision, Nov. 2011, pp. 169-176.
+%\bibitem{8} M.-M. Cheng, G.-X. Zhang, N. J. Mitra, X. Huang, and S.-M. Hu,``Global contrast based salient region detection," \emph{in Proc. IEEE Conf. Computer Vision and Pattern Recognition}, Jun. 2011, pp. 409–416.
+%\bibitem{9} P. Felzenszwalb and D. Huttenlocher. Efficient graph-based image segmentation. IJCV, 59(2):167–181, 2004.
+%\bibitem{10}D. Batra, A. Kowdle, and D. Parikh, ``Icoseg: Interactive co-segmentation with intelligent scribble guidance," \emph{in Proc. IEEE Conf. Computer Vision and Pattern Recognition}, Jun. 2010, pp. 3169-3176.
+%\end{thebibliography}
+\bibliographystyle{apalike}
+\bibliography{ref}
+\end{document}

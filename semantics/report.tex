@@ -1,0 +1,46 @@
+\documentclass{report}
+\usepackage{geometry}
+\geometry{body={6.51in, 9.0in},
+  left=0.9in,
+  top=1in,
+  bottom=0.2in
+}
+\title{Group 17:Java Compiler}
+\author{Abhijit Sharang  10007\\
+	Akshay Kumar 10060\\
+	Kumar Rajpur 10362\\
+	Satish Kumar Meena 10649\\
+	Mentor TA:Amita Sahasrabudhe}
+\date{}
+\pagestyle{empty}
+\begin{document}
+\maketitle
+\vspace{-50mm}
+\section*{Aim of the project}
+The aim of the project was to develop a compiler for Java which supports object oriented features of java like inheritance,polymorphism and encapsulation,apart from the various statements,operators and data types present in Java.
+\section*{Achievement}
+\begin{itemize}
+\item Data types:basic data types(byte,short,int,long,char,float,double),derived data types(array,object)
+\item Tokens:Literals(integer,floating point and string),identifiers,keywords,comments(multi line and documentation comment supported)
+\item Operators:all arithmetic,logical and relational operators that java supports,ternary operator(short circuit evaluation supported;operator overloading supported)
+\item Statements:implicit type conversion for basic types,print statements,assignment(single and multiple),if statement,if else statement,while,for and do while loops,switch(nested statements supported wherever applicable)
+\item Functions:arguments and return types consisting of basic and derived types(overloaded functions supported;recursive functions supported;call through super keyword supported)
+\item OOP Features:interfaces(limited support),classes,objects,inheritance,polymorphism(Liskov substitution principle supported),access modifiers(private and public),static and non static member variables and functions,default and parameterised constructors(explicit constructor invocation supported)
+\end{itemize}
+\section*{What was not achieved}
+\begin{itemize}
+\item Garbage collection
+\item Nested classes
+\item String operations
+\end{itemize}
+\section*{Contribution of the group members}
+\begin{itemize}
+\item Abhijit Sharang--lexical analysis,syntax analysis,semantic analysis,code generation,debugging at all stages(50\%)
+\item Akshay Kumar---lexical analysis,syntax analysis,debugging at other stages(20\%)
+\item Kumar Rajput--syntax analysis,code generation(20\%)
+\item Sateesh Kumar Meena--debugging,lexical analysis(10\%)
+\end{itemize}
+\section*{Others}
+The complier was generated using \texttt{lex} and \texttt{bison}.The language used for the development was C++
+\end{document}
+

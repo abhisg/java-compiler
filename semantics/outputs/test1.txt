@@ -1,0 +1,23 @@
+installing z in the symbol table 0x938a8d0
+function nonstatic installed
+function main installed
+installing x in the symbol table 0x9392c10
+ERROR:Incorrect usage of = on line 9
+function main installed
+ERROR:Illegal method invocation at line 13
+ERROR:Type mismatch at line 14
+ERROR:Incorrect usage of *,divide or mod on line 15
+installing y in the symbol table 0x939caf0
+ERROR:Identifier at line 16 not found
+ERROR:Identifier at line 17 not found
+ERROR:Incorrect usage of = on line 17
+ERROR:Identifier at line 18 not found
+ERROR:Incorrect usage of = on line 18
+ERROR:erroneous type used in while statement at line 19
+installing a in the symbol table 0x939caf0
+ERROR:return statement used inside a void at line 21
+installing x in the symbol table 0x938b1c0
+installing y in the symbol table 0x938b1c0
+function add installed
+installing test in the symbol table 0x938b1c0
+Compilation complete

@@ -1,0 +1,4 @@
+installing p in the symbol table 0x9778940
+function chasePrey installed
+function eatPrey installed
+Compilation complete

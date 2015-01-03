@@ -1,0 +1,31 @@
+---basic data types except string
+---derived data types(objects and arrays)
+---identifiers
+---constants:string,character,integer,floating point
+---implicit casting
+
+---all operators(aritmetic,logical and relational)
+---operators are overloaded
+---boolean short circuit evaluation
+---if ,if else,loops--all three versions,break,continue,switch(nested done)
+
+---member variables and member functions(static and non-static)
+---call to member variables and functions--self and inherited(static and non-static)
+---function calls with primitive and derived arguments
+---recursive functions and overloaded functions
+---basic return types
+
+---new keyword for allocating memory to arrays and objects
+---this and super keywords
+---classes and objects
+---arrays--both primitive and derived types
+
+---one way inheritance
+---compile time polymorphism
+
+---comments
+---print statements
+not implemented:
+--parameterised constructors
+--nested classes
+--garbage collection

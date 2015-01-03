@@ -1,0 +1,58 @@
+<<<<<<<<<Single Import Statement>>>>>>>>>>>,line 1
+<<<<<<<<Multiple Import Statements>>>>>>>>>
+<<<<class instance creation,line 8>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 8
+<<<<Method Invocation>>>>,line 10
+<<<<Method Invocation>>>>,line 11
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 11
+<<<<<<For Statement>>>>>>>>>,line 11
+<<<<<Static Block inside class>>>>>>>
+<<<<<<<<<<<Enum Declaration>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 13
+<<<<<<<Literal>>>>>>,line 15
+<<<<<<<Literal>>>>>>,line 15
+<<<<<<<Literal>>>>>>,line 15
+<<<<<<<Literal>>>>>>,line 15
+<<<<<<this keyword>>>>,line 16
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 16
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 16
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 17
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 18
+<<<<<<Method Declaration>>>>>>>>>>>,line 18
+<<<<<<<<<<<Enum Declaration>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<Method Invocation>>>>,line 22
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 23
+<<<<<<<Literal>>>>>>,line 23
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 23
+<<<<Method Invocation>>>>,line 24
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 24
+<<<<<<<Literal>>>>>>,line 24
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 24
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 24
+<<<<Method Invocation>>>>,line 24
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 24
+<<<<<<For Statement>>>>>>>>>,line 24
+<<<<<<Method Declaration>>>>>>>>>>>,line 25
+<<<<<<<<<<<Enum Declaration>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<Class Declaration within Class>>>>>>>>>>>,line 27
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 29
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 30
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 31
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 32
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 33
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 34
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 34
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 35
+<<<<<<<Literal>>>>>>,line 37
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 37
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 37
+<<<<class instance creation,line 37>>>>
+<<<<<<Switch Statement>>>>>>>>>,line 38
+<<<<<<Method Declaration>>>>>>>>>>>,line 39
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<Import and Class/Interface>>>>>>>>>>>>>
+Compiled successfully

@@ -1,0 +1,11 @@
+installing x in the symbol table 0x9119088
+installing y in the symbol table 0x9119088
+constructor installed
+installing color in the symbol table 0x9122438
+function main installed
+function main installed
+installing ia in the symbol table 0x91384d8
+function main installed
+installing ia1 in the symbol table 0x91266a0
+installing ia2 in the symbol table 0x91266a0
+Compilation complete

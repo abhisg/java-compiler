@@ -1,0 +1,24 @@
+function main installed
+installing big in the symbol table 0xa0176c8
+installing approx in the symbol table 0xa0176c8
+installing s in the symbol table 0xa0176c8
+installing f in the symbol table 0xa0176c8
+installing c in the symbol table 0xa0176c8
+installing l in the symbol table 0xa0176c8
+installing d in the symbol table 0xa0176c8
+installing x in the symbol table 0xa0176c8
+installing y in the symbol table 0xa0176c8
+constructor installed
+installing z in the symbol table 0xa0353c8
+constructor installed
+installing color in the symbol table 0xa0445f0
+function setColor installed
+function main installed
+installing a in the symbol table 0xa052790
+installing b in the symbol table 0xa052790
+function main installed
+installing veclong in the symbol table 0xa06f7e8
+ERROR:Type mismatch at line 66
+ERROR:Type mismatch at line 67
+ERROR:Incorrect usage of = on line 73
+Compilation complete

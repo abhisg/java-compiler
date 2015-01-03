@@ -1,0 +1,10 @@
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 2
+<<<<<<<<<<Interface Method Declaration>>>>>>>,line 3
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 4
+<<<<<<Method Declaration>>>>>>>>>>>,line 9
+<<<<<<Method Declaration>>>>>>>>>>>,line 13
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<Only class/interface>>>>>>>>>>>>
+Compiled successfully

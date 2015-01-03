@@ -1,0 +1,101 @@
+<<<<<<<<<Single Import Statement>>>>>>>>>>>,line 1
+<<<<<<<<Multiple Import Statements>>>>>>>>>
+<<<<<<<<<<<Enum Declaration>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<Class Declaration within Class>>>>>>>>>>>,line 6
+<<<<<<<<<<<Enum Declaration>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<Class Declaration within Class>>>>>>>>>>>,line 8
+<<<<<<Field Declaration>>>>>>>>>>>,line 10
+<<<<<<Field Declaration>>>>>>>>>>>,line 11
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 12
+<<<<<<Method Declaration>>>>>>>>>>>,line 12
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 13
+<<<<<<Method Declaration>>>>>>>>>>>,line 13
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 16
+<<<<<<<Literal>>>>>>,line 16
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 16
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 16
+<<<<<<<Literal>>>>>>,line 16
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 16
+<<<<<<<<<<OR Expression>>>>>>>>>>>>>>,line 16
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 17
+<<<<<<<Literal>>>>>>,line 17
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 17
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 17
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 17
+<<<<class instance creation,line 17>>>>
+<<<<<SINGLE IF>>>>>>>>,line 18
+<<<<<<this keyword>>>>,line 18
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 18
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 18
+<<<<<<this keyword>>>>,line 19
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 19
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 19
+<<<<Constuctor Declaration inside class>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 22
+<<<<<<<Literal>>>>>>,line 22
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 22
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 22
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 22
+<<<<<<Method Declaration>>>>>>>>>>>,line 22
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 26
+<<<<Method Invocation>>>>,line 26
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 27
+<<<<<<<Literal>>>>>>,line 27
+<<<<<<<<<<Comparison Expression>>>>>>>>>>>>>>,line 27
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 28
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 29
+<<<<Method Invocation>>>>,line 29
+<<<<<<<<<<<<Ternary Expression>>>>>>>>>>>,line 29
+<<<<block>>>>>>,line 29
+<<<<<<Method Declaration>>>>>>>>>>>,line 30
+<<<<<<<Literal>>>>>>,line 33
+<<<<class instance creation,line 33>>>>
+<<<<<<Field Declaration>>>>>>>>>>>,line 33
+<<<<Method Invocation>>>>,line 36
+<<<<Method Invocation>>>>,line 37
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 38
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 38
+<<<<class instance creation,line 38>>>>
+<<<<<<For Statement>>>>>>>>>,line 38
+<<<<<<For Statement>>>>>>>>>,line 38
+<<<<<Static Block inside class>>>>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 43
+<<<<class instance creation,line 43>>>>
+<<<<<<Method Declaration>>>>>>>>>>>,line 44
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 45
+<<<<<<<Literal>>>>>>,line 48
+<<<<Array Access>>>>,line 48
+<<<<Method Invocation>>>>,line 48
+<<<<<<<Literal>>>>>>,line 49
+<<<<Array Access>>>>,line 49
+<<<<Method Invocation>>>>,line 49
+<<<<Method Invocation>>>>,line 50
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 51
+<<<<<<<Literal>>>>>>,line 52
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 52
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 52
+<<<<<<<<<<Relational Expression>>>>>>>>>>>>>>,line 52
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 52
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 53
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 53
+<<<<Method Invocation>>>>,line 53
+<<<<<<For Statement>>>>>>>>>,line 53
+<<<<<<Method Declaration>>>>>>>>>>>,line 54
+<<<<Method Invocation>>>>,line 64
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 65
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 65
+<<<<<<<<<<+,- Expression>>>>>>>>>>>>>>,line 65
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 65
+<<<<Method Invocation>>>>,line 65
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 66
+<<<<class instance creation,line 66>>>>
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 68
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 69
+<<<<<<Method Declaration>>>>>>>>>>>,line 70
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<Multiple Class/Interface Declarations>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<Import and Class/Interface>>>>>>>>>>>>>
+Compiled successfully

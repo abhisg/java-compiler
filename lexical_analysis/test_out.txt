@@ -1,0 +1,261 @@
+keyword public on line 1,column 1
+identifier test on line 1,column 8
+separator { on line 1,column 12
+
+-----Lexical analyser on line 2------
+
+
+-----Lexical analyser on line 3------
+
+keyword private on line 3,column 2
+keyword int on line 3,column 10
+identifier number1 on line 3,column 14
+operator = on line 3,column 22
+number 1223_776_998 on line 3,column 24
+separator ; on line 3,column 36
+
+-----Lexical analyser on line 4------
+
+comment //not to be recognised on line 4
+
+-----Lexical analyser on line 5------
+
+keyword private on line 5,column 2
+keyword int on line 5,column 10
+identifier number2 on line 5,column 14
+operator = on line 5,column 22
+identifier _122_334 on line 5,column 24
+separator ; on line 5,column 32
+
+-----Lexical analyser on line 6------
+
+
+-----Lexical analyser on line 7------
+
+multi line comment /************documentation*****************/
+
+-----Lexical analyser on line 8------
+
+keyword private on line 8,column 2
+keyword int on line 8,column 10
+identifier number3 on line 8,column 14
+operator = on line 8,column 22
+octal number 0554_776_332 on line 8,column 24
+separator ; on line 8,column 36
+
+-----Lexical analyser on line 9------
+
+keyword private on line 9,column 2
+keyword int on line 9,column 10
+identifier number4 on line 9,column 14
+operator = on line 9,column 22
+octal number 0_665 on line 9,column 24
+identifier _8857 on line 9,column 29
+separator ; on line 9,column 34
+
+-----Lexical analyser on line 10------
+
+
+-----Lexical analyser on line 11------
+
+comment //hexadecimal num on line 11
+
+-----Lexical analyser on line 12------
+
+keyword private on line 12,column 2
+keyword int on line 12,column 10
+identifier number5 on line 12,column 14
+operator = on line 12,column 22
+hexadecimal number 0x77764_7746_665 on line 12,column 24
+separator ; on line 12,column 40
+
+-----Lexical analyser on line 13------
+
+keyword private on line 13,column 2
+keyword int on line 13,column 10
+identifier number6 on line 13,column 14
+operator = on line 13,column 22
+number 0 on line 13,column 24
+identifier x_776_7765 on line 13,column 25
+separator ; on line 13,column 35
+
+-----Lexical analyser on line 14------
+
+
+-----Lexical analyser on line 15------
+
+comment //decimal on line 15
+
+-----Lexical analyser on line 16------
+
+keyword private on line 16,column 2
+keyword float on line 16,column 10
+identifier number7 on line 16,column 16
+operator = on line 16,column 24
+number 1223_6665 on line 16,column 26
+identifier _ on line 16,column 35
+operator . on line 16,column 36
+separator ; on line 16,column 37
+
+-----Lexical analyser on line 17------
+
+keyword private on line 17,column 2
+keyword float on line 17,column 10
+identifier number8 on line 17,column 16
+operator = on line 17,column 24
+float 1223_6664. on line 17,column 26
+identifier _77736_E_7746 on line 17,column 36
+separator ; on line 17,column 49
+
+-----Lexical analyser on line 18------
+
+
+-----Lexical analyser on line 19------
+
+comment //hexadecimal on line 19
+
+-----Lexical analyser on line 20------
+
+keyword private on line 20,column 2
+keyword float on line 20,column 10
+identifier number9 on line 20,column 16
+operator = on line 20,column 24
+hexadecimal float 0x55_5.77_446p5_545 on line 20,column 26
+separator ; on line 20,column 45
+
+-----Lexical analyser on line 21------
+
+keyword private on line 21,column 2
+keyword float on line 21,column 10
+identifier number10 on line 21,column 16
+operator = on line 21,column 25
+hexadecimal float 0x55_6.7_665P77_66 on line 21,column 27
+separator ; on line 21,column 45
+
+-----Lexical analyser on line 22------
+
+
+-----Lexical analyser on line 23------
+
+comment //binary on line 23
+
+-----Lexical analyser on line 24------
+
+keyword private on line 24,column 2
+keyword int on line 24,column 10
+identifier number11 on line 24,column 14
+operator = on line 24,column 23
+number 0 on line 24,column 25
+identifier b7664_7756 on line 24,column 26
+separator ; on line 24,column 36
+
+-----Lexical analyser on line 25------
+
+keyword private on line 25,column 2
+keyword int on line 25,column 10
+identifier number12 on line 25,column 14
+operator = on line 25,column 23
+number 0 on line 25,column 25
+identifier b776 on line 25,column 26
+float .776E667 on line 25,column 30
+separator ; on line 25,column 38
+
+-----Lexical analyser on line 26------
+
+
+-----Lexical analyser on line 27------
+
+keyword private on line 27,column 2
+identifier String on line 27,column 10
+identifier str1 on line 27,column 17
+operator = on line 27,column 22
+string "Space oddity \b \n \r \f \u002A \t \" \' \\ \066 \2 \24; ; " on line 27,column 24
+separator ; on line 27,column 85
+
+-----Lexical analyser on line 28------
+
+
+-----Lexical analyser on line 29------
+
+keyword private on line 29,column 2
+identifier bool on line 29,column 10
+identifier b on line 29,column 15
+operator = on line 29,column 17
+separator ( on line 29,column 19
+identifier number1 on line 29,column 20
+operator == on line 29,column 28
+identifier number2 on line 29,column 31
+separator ) on line 29,column 38
+operator ^ on line 29,column 39
+separator ( on line 29,column 40
+identifier number2 on line 29,column 41
+operator > on line 29,column 48
+identifier number3 on line 29,column 49
+separator ) on line 29,column 56
+operator || on line 29,column 57
+separator ( on line 29,column 59
+identifier number5 on line 29,column 60
+operator >= on line 29,column 67
+identifier number10 on line 29,column 69
+separator ) on line 29,column 77
+operator & on line 29,column 78
+separator ( on line 29,column 79
+identifier number6 on line 29,column 80
+operator != on line 29,column 87
+identifier number7 on line 29,column 89
+separator ) on line 29,column 96
+operator || on line 29,column 97
+separator ( on line 29,column 99
+identifier number5 on line 29,column 100
+operator * on line 29,column 107
+identifier number2 on line 29,column 108
+operator == on line 29,column 116
+identifier number6 on line 29,column 119
+operator / on line 29,column 126
+identifier number5 on line 29,column 127
+separator ) on line 29,column 134
+separator ; on line 29,column 135
+
+-----Lexical analyser on line 30------
+
+
+-----Lexical analyser on line 31------
+
+separator } on line 31,column 1
+
+-----Lexical analyser on line 32------
+
+
+-----Printing the contents of the symbol table-----
+
+lexeme public of type 0 was found at line 1
+lexeme test of type 1 was found at line 1
+lexeme private of type 0 was found at line 3
+lexeme int of type 0 was found at line 3
+lexeme number1 of type 1 was found at line 3
+lexeme number2 of type 1 was found at line 5
+lexeme _122_334 of type 1 was found at line 5
+lexeme number3 of type 1 was found at line 8
+lexeme number4 of type 1 was found at line 9
+lexeme _8857 of type 1 was found at line 9
+lexeme number5 of type 1 was found at line 12
+lexeme number6 of type 1 was found at line 13
+lexeme x_776_7765 of type 1 was found at line 13
+lexeme float of type 0 was found at line 16
+lexeme number7 of type 1 was found at line 16
+lexeme _ of type 1 was found at line 16
+lexeme number8 of type 1 was found at line 17
+lexeme _77736_E_7746 of type 1 was found at line 17
+lexeme number9 of type 1 was found at line 20
+lexeme number10 of type 1 was found at line 21
+lexeme number11 of type 1 was found at line 24
+lexeme b7664_7756 of type 1 was found at line 24
+lexeme number12 of type 1 was found at line 25
+lexeme b776 of type 1 was found at line 25
+lexeme String of type 1 was found at line 27
+lexeme str1 of type 1 was found at line 27
+lexeme bool of type 1 was found at line 29
+lexeme b of type 1 was found at line 29
+
+-----Printing the contents of the error dump-------
+

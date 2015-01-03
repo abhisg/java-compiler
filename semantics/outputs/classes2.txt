@@ -1,0 +1,25 @@
+installing j in the symbol table 0x8c72088
+function peek installed
+installing i in the symbol table 0x8c72088
+installing x in the symbol table 0x8c7c870
+installing y in the symbol table 0x8c7c870
+installing v in the symbol table 0x8c7c870
+installing z in the symbol table 0x8c7c870
+installing j in the symbol table 0x8c7c870
+installing k in the symbol table 0x8c7c870
+installing n in the symbol table 0x8c7c870
+installing h in the symbol table 0x8c7c870
+installing w in the symbol table 0x8c7c870
+installing p in the symbol table 0x8c7c870
+installing m in the symbol table 0x8c7c870
+installing o in the symbol table 0x8ca84e8
+installing o in the symbol table 0x8cadb60
+constructor installed
+installing buf in the symbol table 0x8ca84e8
+installing pos in the symbol table 0x8ca84e8
+function putchar installed
+function flush installed
+installing o in the symbol table 0x8ccbd30
+constructor installed
+function putchar installed
+Compilation complete

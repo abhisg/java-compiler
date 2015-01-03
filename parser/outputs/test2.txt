@@ -1,0 +1,16 @@
+<<<<<<<Literal>>>>>>,line 3
+<<<<<<<Literal>>>>>>,line 3
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 4
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 4
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 4
+<<<<<<Method Declaration>>>>>>>>>>>,line 5
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 9
+<<<<Method Invocation>>>>,line 9
+<<<<<<<<<<<<Assignment expression>>>>>>>,line 9
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 10
+<<<<<<Method Declaration>>>>>>>>>>>,line 11
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 12
+<<<<<<<<Only class/interface>>>>>>>>>>>>
+Compiled successfully

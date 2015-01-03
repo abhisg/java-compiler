@@ -1,0 +1,11 @@
+<<<<<<<Literal>>>>>>,line 4
+<<<<<<<Literal>>>>>>,line 4
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 5
+<<<<<<<<<<Ordinary Name>>>>>>>>>,line 5
+<<<<<<<<<<Multiplicative Expression>>>>>>>>>>>>>>,line 5
+<<<<<<Method Declaration>>>>>>>>>>>,line 6
+<<<<<<<Class Declarations>>>>>>
+<<<<<<<<<<<Normal Class Declaration>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<Single  Class/Interface Declaration>>>>>>>>>>>,line 7
+<<<<<<<<Only class/interface>>>>>>>>>>>>
+Compiled successfully
